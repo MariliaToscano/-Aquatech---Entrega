@@ -1,1 +1,1 @@
-# aquatech-somente-html
+# Aquatech - Entrega: página inicial, tela login, tela cadastro
